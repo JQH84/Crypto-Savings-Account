@@ -18,7 +18,7 @@ compile and run the contract to test it out.
 
 ## Execution Results
 
-A quick gif showing the varies screenshots of the contract being executed.
+A quick gif showing the varies screenshots of the contract being executed and they can be found here as well for [higher resolution](https://github.com/JQH84/Crypto-Savings-Account/tree/main/Execution_Results)
 
 ![Demo](Execution_Results/execution_results.gif)
 
