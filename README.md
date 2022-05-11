@@ -20,7 +20,7 @@ compile and run the contract to test it out.
 
 A quick gif showing the varies screenshots of the contract being executed.
 
-![Demo](Excecution_Results/execution_results.gif)
+![Demo](Execution_Results/execution_results.gif)
 
 
 
